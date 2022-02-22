@@ -5,6 +5,6 @@ En del i ett större grupparbete som syftade till att integrera flera delar av e
 
 I slutet av projektet jobbade vi tillsammans med övriga grupper för att integrera ihop alla delar till ett fungerande system, som tyvärr inte finns publicerat längre.
 
-Detta är API-delen av systemet. Detta API hanterar personalens in- och utstämplingar samt inloggning för admins. Syftet med denna delen är att andra grupper som hanterar personal ska kunna anropa vår API för att kunna genomföra in- och utstämplingar, men också kunna begära ut information om personalens tidigare stämplingshistorik i syfte att t.ex kunna beräkna löner.
+Detta är API-delen av systemet. Detta API hanterar personalens in- och utstämplingar samt inloggning för admins. Syftet med denna delen är att andra grupper som hanterar personal ska kunna anropa vår API för att kunna genomföra in- och utstämplingar, men också kunna begära ut information om personalens tidigare stämplingshistorik i syfte att t.ex kunna beräkna löner. Detta API använder .NET Core, Entity Framework och Nlog.
 
 Länk till webbapplikationen: https://github.com/antabuze/Gymprojekt---Login-API
